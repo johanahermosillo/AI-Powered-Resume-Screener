@@ -25,8 +25,6 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/ai-powered-resume-screener.git
-cd ai-powered-resume-screener
 
 Install dependencies:
 bash
@@ -39,7 +37,6 @@ bash
 Copy
 Edit
 python app.py
-Open in your browser at http://127.0.0.1:5000
 
 📊 Example Dataset
 The app uses a curated dataset of 150+ technical skills across software development, data science, and engineering domains. You can expand or customize this dataset to match your organization's hiring needs.
